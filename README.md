@@ -83,10 +83,10 @@ This project enables airport stakeholders to:
 - Provide a centralized, interactive view of airport traffic and route activity.
 
 ---
-
 ## Repository Files & Documentation
 
-- [Power BI Report File (.pbix)](./KKIA%20Airport%20Traffic%20Intelligence.pbix)
-- [Python EDA & Data Processing Notebook (.ipynb)](./KKIA%20Airport%20Traffic%20Intelligence.ipynb)
-- [High-Resolution Dashboard PDF Export (.pdf)](./KKIA%20Airport%20Traffic%20Intelligence-image.pdf)
-- [Kaggle Dataset Source](https://www.kaggle.com/datasets/kingkhalidinternationalairportflightsdataset)
+- [Power BI Dashboard File (.pbix)](./KKIA%20Airport%20Traffic%20Intelligence.pbix)
+- [Python EDA & Data Analysis Code (.ipynb)](./KKIA%20Airport%20Traffic%20Intelligence.ipynb)
+- [Dashboard Visual Exports (.pdf)](./KKIA%20Airport%20Traffic%20Intelligence-image%20.pdf)
+- [Interactive Dashboard Video Demo (.MP4)](./KKIA%20Airport%20Traffic%20Intelligence-video.MP4)
+- [Kaggle Dataset Source](https://www.kaggle.com/datasets/mohammedalsubaie/king-khalid-international-airport-flights-dataset/data)
